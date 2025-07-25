@@ -2,8 +2,6 @@
 
 Sometimes all it takes is a dataset and an idea — and I’m already spinning up models, crafting APIs, and designing dashboards. I’m a Computer Science engineering student in Tunisia, specializing in **Data Science & Artificial Intelligence**, and I love the moment when messy data transforms into something insightful, beautiful, or just plain useful.
 
-Whether it’s recognizing recycling logos with deep learning or building a full-stack housing platform from scratch, I’m always coding with curiosity and purpose.
-
 ---
 
 ## 🧩 I Like to Build Things That...
@@ -26,11 +24,11 @@ Whether it’s recognizing recycling logos with deep learning or building a full
 🫁 **Lung Cancer Classifier**  
 → Medical imaging meets machine learning. Used ResNet and VGGNet models to spot early signs — one scan at a time.
 
-🏠 **University Housing System**  
-→ A clean Spring Boot web app that does it all: dorm reservations, custom queries, REST APIs, and a backend that just won’t quit.
-
 💼 **JobNest**  
 → Scraped job listings from LinkedIn using Selenium + Beautiful Soup, stored it in MongoDB, and made the data searchable via Flask.
+
+🏠 **University Housing System**  
+→ A clean Spring Boot web app that does it all: dorm reservations, custom queries, REST APIs, and a backend that just won’t quit.
 
 ---
 
