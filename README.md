@@ -13,24 +13,6 @@ Sometimes all it takes is a dataset and an idea — and I’m already spinning u
 
 ---
 
-## 🛠 Some of My Favorite Experiments
-
-🧠 **Trash to Cash**  
-→ A CNN-powered app that scans recycling logos in real-time. Think TensorFlow, Keras, and React all talking to each other behind the scenes. Bonus: JWT auth and MongoDB-backed predictions.
-
-📊 **Sales Trend Analysis**  
-→ Built in Power BI. Explores how customers behave, what products dominate, and how managers influence sales. Pie charts never looked so smart.
-
-🫁 **Lung Cancer Classifier**  
-→ Medical imaging meets machine learning. Used ResNet and VGGNet models to spot early signs — one scan at a time.
-
-💼 **JobNest**  
-→ Scraped job listings from LinkedIn using Selenium + Beautiful Soup, stored it in MongoDB, and made the data searchable via Flask.
-
-🏠 **University Housing System**  
-→ A clean Spring Boot web app that does it all: dorm reservations, custom queries, REST APIs, and a backend that just won’t quit.
-
----
 
 ## 🧪 What’s in My Toolkit
 
@@ -56,7 +38,7 @@ Sometimes all it takes is a dataset and an idea — and I’m already spinning u
 ## 📬 Let's Connect
 
 📧 [ayamekni2001@gmail.com](mailto:ayamekni2001@gmail.com)  
-🐙 [GitHub](https://github.com/ayamekni)  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/aya-mekni-0b0783283/)
 
 ---
