@@ -1,48 +1,98 @@
-# 👋 Hello, I’m Aya Mekni
 
-Sometimes all it takes is a dataset and an idea — and I’m already spinning up models, crafting APIs, and designing dashboards. I’m a Computer Science engineering student in Tunisia, specializing in **Data Science & Artificial Intelligence**, and I love the moment when messy data transforms into something insightful, beautiful, or just plain useful.
+<p align="center">
+<img width="1584" height="396" alt="Beige Feminine Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/02fdd655-d150-4c2a-b4b0-29667cefe4d6" />
 
----
+</p>
 
-## 🧩 I Like to Build Things That...
+Hi, I'm Aya Mekni  
 
-- Understand the world (even just a little better) through **machine learning**
-- Automate what’s boring with **Python, scraping, and APIs**
-- Tell stories with data using **Power BI, Tableau, and clean code**
-- Combine **frontend magic** with **backend muscle** to make ideas come alive
-
----
-
-
-## 🧪 What’s in My Toolkit
-
-- **Languages**: Python, Java, SQL, PHP, HTML/CSS, JavaScript  
-- **Frameworks**: Django, Flask, Laravel, React.js, Spring Boot  
-- **AI & ML**: TensorFlow, Keras, scikit-learn, OpenCV, YOLO  
-- **Data Stack**: Pandas, NumPy, Power BI, Tableau, MongoDB, Hadoop  
-- **Dev Tools**: Git, Swagger, Postman, Jira, VSCode, IntelliJ  
-- **Scraping & Automation**: Selenium, Beautiful Soup  
-- **Soft Skills**: Scrum, critical thinking, design sense, and never skipping coffee
+Computer Science Engineering Student @ Tunisia (Graduating 2026)  
+Data Science & Artificial Intelligence Enthusiast  
+Dreaming of building AI that truly **understands, creates, and empowers**  
 
 ---
 
-## 📜 Certified & Ready
+## 🌟 About Me  
 
-- NVIDIA: AI for Predictive Maintenance / Fundamentals of Deep Learning  
-- Microsoft: Azure AI Fundamentals  
-- KodeKloud: Docker, DevOps, Power BI  
-- SCRUMstudy: Scrum Fundamentals
+ I’m **Aya Mekni**, a curious mind who believes that between data and intuition lies the spark where great things are built.  
+
+I enjoy **solving real-world problems with AI** — whether that means:  
+- teaching a model to **detect liver tumors** in MRI scans 
+- training a **robot to recycle bottles** for a cleaner planet  
+- or simply turning messy CSV files into **beautiful dashboards** 
+
+⚡ **What drives me?**  
+The joy of taking an idea → experimenting → deploying it → and watching it make someone’s life easier.  
+
+💖 Outside of tech:  
+- **Coffee** is my coding fuel  
+-  I enjoy **DIY projects** and getting creative with my hands  
+-  I love **working out** and staying active to balance all the screen time  
 
 ---
 
-## 📬 Let's Connect
+##  What I’m Looking For  
 
-📧 [ayamekni2001@gmail.com](mailto:ayamekni2001@gmail.com)  
+**Motivated fifth-year Computer Science student, graduating in 2026**, with a strong focus on **Data Science & Artificial Intelligence**.  
+Passionate about building **end-to-end solutions** that transform raw data into real-world impact — from **ETL pipelines and MLOps practices** to deploying **ML/DL models at scale**.  Interested in **Big Data systems** and the next generation of intelligent applications powered by **LLMs, RAG, and AI Agents**.  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/aya-mekni-0b0783283/)
+👉 **Actively seeking a 2026 End-of-Study Internship** to deepen my expertise and contribute to innovative projects in the AI field.  
 
 ---
 
-> *"Between data and intuition, I find the spark where great things are built."*
+## 🛠️ My Tech Universe  
 
-✨ Thanks for stopping by — whether you’re here to collaborate, connect, or just browse, welcome to my digital corner of curiosity and code.
+** Languages**: Python · Java · SQL · PHP · JavaScript · HTML/CSS  
+** Frameworks**: Django · Flask · React.js · Spring Boot · FastAPI  
+** AI/ML**: PyTorch · TensorFlow · Keras · Hugging Face Transformers · CNN · LSTM · RAG · LangChain · Ollama  
+** Computer Vision**: OpenCV · YOLO · Medical Imaging · Feature Extraction  
+** Data Engineering**: Pandas · NumPy · Hadoop · Spark · MLflow · ETL/ELT  
+** Visualization**: Power BI · Tableau · Matplotlib  
+** DevOps & Cloud**: Docker · Git/GitHub · Azure AI · MLOps pipelines  
+
+---
+
+## 📜 Certifications (Highlights)  
+
+🎓 NVIDIA — Fundamentals of Deep Learning  
+🎓 NVIDIA — Transformer-Based NLP  
+🎓 NVIDIA — Generative AI with Diffusion Models  
+🎓 DataCamp — RAG with LangChain · Llama 3 · MLflow  
+🎓 Microsoft — AI-900: Azure AI Fundamentals  
+🎓 KodeKloud — Docker · DevOps Fundamentals  
+🎓 Scrumstudy — Scrum Fundamentals Certified  
+
+---
+
+## 🌐 Let’s Connect  
+
+
+<p align="center">
+  <!-- CV -->
+  <a href="https://your-link-to-cv.com" target="_blank">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae-Download-red?style=for-the-badge&logo=adobeacrobatreader" alt="CV"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aya-mekni//" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/ayamekni" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:ayamekni2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+ 
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayamekni/ayamekni/main/assets/footer.gif" width="400px"><br>
+  ✨ Thanks for stopping by — whether you’re here to collaborate, connect, or just browse, welcome to my digital corner of curiosity and code ✨
+</p>
