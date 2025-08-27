@@ -42,13 +42,13 @@ Passionate about building **end-to-end solutions** that transform raw data into 
 
 ## 🛠️ My Tech Universe  
 
-** Languages**: Python · Java · SQL · PHP · JavaScript · HTML/CSS  
-** Frameworks**: Django · Flask · React.js · Spring Boot · FastAPI  
-** AI/ML**: PyTorch · TensorFlow · Keras · Hugging Face Transformers · CNN · LSTM · RAG · LangChain · Ollama  
-** Computer Vision**: OpenCV · YOLO · Medical Imaging · Feature Extraction  
-** Data Engineering**: Pandas · NumPy · Hadoop · Spark · MLflow · ETL/ELT  
-** Visualization**: Power BI · Tableau · Matplotlib  
-** DevOps & Cloud**: Docker · Git/GitHub · Azure AI · MLOps pipelines  
+**Languages**: Python · Java · SQL · PHP · JavaScript · HTML/CSS  
+**Frameworks**: Django · Flask · React.js · Spring Boot · FastAPI  
+**AI/ML**: PyTorch · TensorFlow · Keras · Hugging Face Transformers · CNN · LSTM · RAG · LangChain · Ollama  
+**Computer Vision**: OpenCV · YOLO · Medical Imaging · Feature Extraction  
+**Data Engineering**: Pandas · NumPy · Hadoop · Spark · MLflow · ETL/ELT  
+**Visualization**: Power BI · Tableau · Matplotlib  
+**DevOps & Cloud**: Docker · Git/GitHub · Azure AI · MLOps pipelines  
 
 ---
 
