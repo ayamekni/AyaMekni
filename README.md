@@ -1,10 +1,8 @@
-<p align="center">
-  <img width="1584" height="396" alt="Beige Feminine Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/02fdd655-d150-4c2a-b4b0-29667cefe4d6" />
-</p>
+
 
 <div align="center">
 
-# 👩‍💻 Aya Mekni
+#  Aya Mekni
 
 ### 🚀 Computer Science Engineering Student @ Tunisia (Graduating 2026)  
 ### 🤖 Data Science & Artificial Intelligence Enthusiast  
