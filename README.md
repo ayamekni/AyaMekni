@@ -1,149 +1,134 @@
+<!-- Top animated banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=170&section=header&text=Aya%20Mekni&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="Aya Mekni banner" />
+</p>
 
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=3F8CFF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;LLMs%2C+RAG%2C+Agentic+AI;MLOps%2C+ETL%2C+Cloud;Actively+seeking+a+6%E2%80%91month+AI+Engineering+Internship+from+Jan+2026%20%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<div align="center">
+<!-- Social + quick facts -->
+<p align="center">
+  <a href="https://aya-mekni-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aya-mekni"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:aya.mekni@esprim.tn"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/ayamekni"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Monastir%2C%20Tunisia-5E5E5E?style=for-the-badge">
+  <img alt="Relocation" src="https://img.shields.io/badge/Open%20to%20Relocation-3F8CFF?style=for-the-badge">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ayamekni&style=for-the-badge&color=blueviolet" />
+</p>
 
-#  Aya Mekni
+<!-- Internship emphasis -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Actively%20Seeking-6--month%20AI%20Engineering%20Internship%20(Jan%202026)-ff69b4?style=for-the-badge&logo=sparkles" />
+</p>
 
-### 🚀 Computer Science Engineering Student @ Tunisia (Graduating 2026)  
-### 🤖 Data Science & Artificial Intelligence Enthusiast  
-### 🌈 Dreaming of building AI that truly **understands, creates, and empowers**
+<!-- Intro + female developer visual -->
+<table>
+<tr>
+<td width="65%">
+I build end‑to‑end, production‑ready AI systems—from robust data pipelines and feature engineering to model training, API deployment, and observability. I’m especially excited about LLM/RAG applications, agentic AI, and MLOps that turn real‑world problems into measurable impact.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayamekni&style=flat-square&color=blue)
-![AI Badge](https://img.shields.io/badge/AI%20Dreamer-Active-brightgreen?style=flat-square)
-![Internship Badge](https://img.shields.io/badge/2026%20Internship-Seeking-orange?style=flat-square)
+- LLMs & RAG with LangChain + vector DBs (Neo4j) • explainability and evaluation
+- Data engineering with Pandas/Spark • CI/CD for ML (GitHub Actions, Docker, MLflow)
+- Clear communication: dashboards, KPIs, and insights for stakeholders
+</td>
+<td align="center" width="35%">
+  <!-- Using a reliable, GitHub-hosted female developer GIF. In the PR, I will also self-host it under assets/gifs/code_girl.gif for maximum reliability. -->
+  <img src="https://raw.githubusercontent.com/AnmolBaranwal/Cool-GIFs-For-GitHub/main/Developer_Girl/Code_girl.gif" width="260" alt="Developer girl coding" />
+  <br/>
+  <sub>Let’s build useful, explainable AI — fast.</sub>
+</td>
+</tr>
+</table>
 
-</div>
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&section=header&height=12" alt="divider" />
+</p>
 
----
+<!-- Core stack with icons -->
+<h3 align="center">🧠 Core Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,keras,fastapi,langchain,postgres,mongodb,neo4j,redis,selenium,apache,flask,streamlit,git,docker,kubernetes,aws,azure,gcp,linux,ubuntu&perline=11" alt="Skills" />
+</p>
 
-## 🌟 About Me  
+<!-- Impact section -->
+<h3>🔎 Impact Highlights</h3>
 
+- 📈 EDA + anomaly detection on 7k+ gameplay logs → clear learning trends for educators
+- 🧠 RAG + Neo4j recommender (LLMs, LangChain) → ~75% matching accuracy
+- ⚡ Eventify (real‑time dashboards, WebSockets, MFA/RBAC) → +25% user engagement
+- 🩺 Medical ML: AUROC 0.78 (radiomics, SVM) • 🎙️ SER CNN → 85% weighted‑F1
+- 🧰 Reproducible ML: MLflow + Docker + CI/CD
 
-> I’m **Aya Mekni**, a curious mind who believes that between data and intuition lies the spark where great things are built.  
+<!-- Projects -->
+<h3>🚀 Selected Projects</h3>
 
-I enjoy **solving real-world problems with AI** — whether that means:  
-- 🩺 Teaching a model to **detect lungs tumors** in MRI scans  
-- 🤖 Training a **robot to recycle bottles** for a cleaner planet  
-- 📊 Turning messy CSV files into **beautiful dashboards**  
+- AfriOffres — hybrid TF‑IDF + embeddings + RAG; +15% Recall@10; scalable scraping + APIs  
+  Tech: Python, FastAPI, MongoDB, Selenium, BeautifulSoup, LangChain
 
-**⚡ What drives me?**  
-The joy of taking an idea → experimenting → deploying it → and watching it make someone’s life easier.  
+- Trash to Cash — EfficientNet‑B3 classifier (macro‑F1 0.85), YOLOv5 brand‑level detection (~80% precision)  
+  Tech: Python, TensorFlow, PyTorch, YOLOv5, FastAPI, MongoDB
 
-**💖 Outside of tech:**  
-- ☕️ **Coffee** is my coding fuel  
-- 🛠️ I enjoy **DIY projects** and getting creative with my hands  
-- 🏃‍♀️ I love **working out** and staying active to balance all the screen time  
+- Lung Cancer Prediction — SVM on radiomics; AUROC 0.78; deployed with MLflow + Docker  
+  Tech: Python, scikit‑learn, MLflow, FastAPI, Docker
 
----
+- Smart‑city Traffic Forecasting — ARIMA/SARIMA with seasonal modeling (MAE, RMSE, MAPE)  
+  Tech: Python, statsmodels, scikit‑learn
 
-## 🚩 What I’m Looking For  
+- Speech Emotion Recognition (SER) — CNN on log‑mel spectrograms; 85% weighted‑F1  
+  Tech: Python, TensorFlow/Keras, Librosa
 
-> **Motivated fifth-year Computer Science student, graduating in 2026**, with a strong focus on **Data Science & Artificial Intelligence**.  
-> Passionate about building **end-to-end solutions** that transform raw data into real-world impact — from **ETL pipelines and MLOps practices** to deploying **ML/DL models at scale**.  
-> Interested in **Big Data systems** and the next generation of intelligent applications powered by **LLMs, RAG, and AI Agents**.  
+<!-- Certifications -->
+<h3>🏅 Certifications</h3>
 
-<div align="center">
+- NVIDIA — Fundamentals of Deep Learning (Mar 2025)
+- NVIDIA — Generative AI with Diffusion Models (Jun 2025)
+- NVIDIA — Applications of AI for Predictive Maintenance (Apr 2025)
+- NVIDIA — Introduction to Transformer‑Based NLP (Aug 2025)
+- Microsoft Certified — Azure AI Fundamentals (AI‑900), KodeKloud (Feb 2025)
+- Scrum Fundamentals Certified • DevOps Fundamentals
 
-☄️ **Actively seeking a 2026 End-of-Study Internship** to deepen my expertise and contribute to innovative projects in the AI field.  
-</div>
+<!-- Stats and trophies -->
+<h3>📊 GitHub at a Glance</h3>
+<p align="center">
+  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayamekni&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+  <img height="160" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ayamekni&theme=transparent&hide_border=true" />
+</p>
+<p align="center">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ayamekni&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" />
+</p>
+<p align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ayamekni&theme=github-compact&hide_border=true" />
+</p>
 
----
+<!-- Contribution snake (generated by workflow below) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayamekni/AyaMekni/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ayamekni/AyaMekni/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-## 🛠️ My Tech Universe  
+<!-- Availability (emphasized) -->
+<h3>🗓️ Availability</h3>
 
-<div align="center">
+- 🔥 Actively seeking: 6‑month AI Engineering internship starting <b>January 2026</b>  
+- 🎯 Focus: AI/ML Engineering, MLOps, LLM/RAG applications  
+- 🌍 Location: Monastir, Tunisia • Open to international relocation
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<!-- Contact -->
+<h3>🤝 Let’s Connect</h3>
 
-**Frameworks & Libraries**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+- 📧 Email: <a href="mailto:aya.mekni@esprim.tn">aya.mekni@esprim.tn</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/aya-mekni">aya-mekni</a>  
+- 🌐 Portfolio: <a href="https://aya-mekni-portfolio.vercel.app">aya-mekni-portfolio.vercel.app</a>  
+- 🐙 GitHub: <a href="https://github.com/ayamekni">ayamekni</a>  
+- 📱 Phone: +216 92 819 319
 
-**ML/AI**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21A?style=flat-square&logo=huggingface&logoColor=black)
-
-**Computer Vision & Data**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
-**DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
-</div>
-
-
----
-
-## 📜 Certifications (Highlights)  
-
-| Certificate | Provider |  
-| :--- | :--- |  
-| 🎓 Fundamentals of Deep Learning | NVIDIA |  
-| 🎓 Transformer-Based NLP | NVIDIA |  
-| 🎓 Generative AI with Diffusion Models | NVIDIA |  
-| 🎓 RAG with LangChain · Llama 3 · MLflow | DataCamp |  
-| 🎓 AI-900: Azure AI Fundamentals | Microsoft |  
-| 🎓 Docker · DevOps Fundamentals | KodeKloud |  
-| 🎓 Scrum Fundamentals Certified | Scrumstudy |  
-
----
-
-## 🌐 Let’s Connect  
-
-<div align="center">
-
-<!-- CV -->
-<a href="https://your-link-to-cv.com" target="_blank">
-  <img src="https://img.shields.io/badge/Curriculum%20Vitae-Download-red?style=for-the-badge&logo=adobeacrobatreader" alt="CV"/>
-</a>
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/aya-mekni//" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/ayamekni" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<!-- Email -->
-<a href="mailto:ayamekni2001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayamekni/ayamekni/main/assets/footer.gif" width="400px"><br>
-  <h3>✨ Thanks for stopping by — whether you’re here to collaborate, connect, or just browse, welcome to my digital corner of curiosity and code ✨</h3>
-</div>
-
----
-
-<details>
-  <summary>🎈 Fun Facts</summary>
-  
-  - I can code for hours but need coffee every 45 minutes ☕
-  - I love turning data into stories!
-</details>
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" alt="Footer wave" />
+</p>
