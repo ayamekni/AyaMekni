@@ -36,7 +36,7 @@ I build end‑to‑end, production‑ready AI systems—from robust data pipelin
 </td>
 <td align="center" width="35%">
   <!-- Using a reliable, GitHub-hosted female developer GIF. In the PR, I will also self-host it under assets/gifs/code_girl.gif for maximum reliability. -->
-  <img src="https://raw.githubusercontent.com/AnmolBaranwal/Cool-GIFs-For-GitHub/main/Developer_Girl/Code_girl.gif" width="260" alt="Developer girl coding" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="260" alt="Girl coding on a laptop" />
   <br/>
   <sub>Let’s build useful, explainable AI — fast.</sub>
 </td>
