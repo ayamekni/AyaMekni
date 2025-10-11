@@ -24,72 +24,134 @@
   <img src="https://img.shields.io/badge/Actively%20Seeking-6--month%20AI%20Engineering%20Internship%20(Jan%202026)-ff69b4?style=for-the-badge&logo=sparkles" />
 </p>
 
-<!-- Intro + female developer visual -->
+<!-- Eye-catching developer photo + GIFs -->
 <table>
 <tr>
-<td width="65%">
-I build end‑to‑end, production‑ready AI systems—from robust data pipelines and feature engineering to model training, API deployment, and observability. I’m especially excited about LLM/RAG applications, agentic AI, and MLOps that turn real‑world problems into measurable impact.
+<td align="center" width="34%">
+  <!-- Replace with a real professional photo in your repo under assets/profile_photo.jpg -->
 
-- LLMs & RAG with LangChain + vector DBs (Neo4j) • explainability and evaluation
-- Data engineering with Pandas/Spark • CI/CD for ML (GitHub Actions, Docker, MLflow)
-- Clear communication: dashboards, KPIs, and insights for stakeholders
-</td>
-<td align="center" width="35%">
-  <!-- Using a reliable, GitHub-hosted female developer GIF. In the PR, I will also self-host it under assets/gifs/code_girl.gif for maximum reliability. -->
-  <img src="https://raw.githubusercontent.com/AnmolBaranwal/Cool-GIFs-For-GitHub/main/Developer_Girl/Code_girl.gif" width="260" alt="Developer girl coding" />
   <br/>
-  <sub>Let’s build useful, explainable AI — fast.</sub>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="160" alt="Coding animated GIF"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/AnmolBaranwal/Cool-GIFs-For-GitHub/main/Developer_Girl/Code_girl.gif" width="160" alt="Developer girl coding" />
+  <br/>
+  <sub><em>Let’s build useful, explainable AI — fast.</em></sub>
+</td>
+<td width="66%">
+  <h4>👩‍💻 About Me</h4>
+  <ul>
+    <li>I build <b>end‑to‑end, production‑ready AI systems</b> — from robust data pipelines and feature engineering to model training, API deployment, and observability.</li>
+    <li><b>LLM/RAG</b> applications, agentic AI, and <b>MLOps</b> are my jam: I turn real‑world problems into measurable impact.</li>
+    <li>
+      <ul>
+        <li>LLMs & RAG with LangChain + vector DBs (Neo4j) • explainability & evaluation</li>
+        <li>Data engineering with Pandas/Spark • CI/CD for ML (GitHub Actions, Docker, MLflow)</li>
+        <li>Clear communication: dashboards, KPIs, and insights for stakeholders</li>
+      </ul>
+    </li>
+  </ul>
 </td>
 </tr>
 </table>
 
-<!-- Animated divider -->
+<!-- Fun divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&section=header&height=12" alt="divider" />
 </p>
 
-<!-- Core stack with icons -->
+<!-- Core stack with icons + animated GIF -->
 <h3 align="center">🧠 Core Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,keras,fastapi,langchain,postgres,mongodb,neo4j,redis,selenium,apache,flask,streamlit,git,docker,kubernetes,aws,azure,gcp,linux,ubuntu&perline=11" alt="Skills" />
+  <br/>
+ 
 </p>
 
 <!-- Impact section -->
 <h3>🔎 Impact Highlights</h3>
-
-- 📈 EDA + anomaly detection on 7k+ gameplay logs → clear learning trends for educators
-- 🧠 RAG + Neo4j recommender (LLMs, LangChain) → ~75% matching accuracy
-- ⚡ Eventify (real‑time dashboards, WebSockets, MFA/RBAC) → +25% user engagement
-- 🩺 Medical ML: AUROC 0.78 (radiomics, SVM) • 🎙️ SER CNN → 85% weighted‑F1
-- 🧰 Reproducible ML: MLflow + Docker + CI/CD
+<ul>
+  <li>📈 <b>EDA + anomaly detection</b> on 7k+ gameplay logs → clear learning trends for educators</li>
+  <li>🧠 <b>RAG + Neo4j recommender</b> (LLMs, LangChain) → ~75% matching accuracy</li>
+  <li>⚡ <b>Eventify</b> (real‑time dashboards, WebSockets, MFA/RBAC) → +25% user engagement</li>
+  <li>🩺 <b>Medical ML:</b> AUROC 0.78 (radiomics, SVM) • 🎙️ SER CNN → 85% weighted‑F1</li>
+  <li>🧰 <b>Reproducible ML:</b> MLflow + Docker + CI/CD</li>
+</ul>
 
 <!-- Projects -->
 <h3>🚀 Selected Projects</h3>
+<ul>
+  <li>
+    <b>AfriOffres</b> — hybrid TF‑IDF + embeddings + RAG; +15% Recall@10; scalable scraping + APIs  
+    <br/>
+    <sub>Tech: Python, FastAPI, MongoDB, Selenium, BeautifulSoup, LangChain</sub>
+  </li>
+  <li>
+    <b>Trash to Cash</b> — EfficientNet‑B3 classifier (macro‑F1 0.85), YOLOv5 brand‑level detection (~80% precision)  
+    <br/>
+    <sub>Tech: Python, TensorFlow, PyTorch, YOLOv5, FastAPI, MongoDB</sub>
+  </li>
+  <li>
+    <b>Lung Cancer Prediction</b> — SVM on radiomics; AUROC 0.78; deployed with MLflow + Docker  
+    <br/>
+    <sub>Tech: Python, scikit‑learn, MLflow, FastAPI, Docker</sub>
+  </li>
+  <li>
+    <b>Smart‑city Traffic Forecasting</b> — ARIMA/SARIMA with seasonal modeling (MAE, RMSE, MAPE)  
+    <br/>
+    <sub>Tech: Python, statsmodels, scikit‑learn</sub>
+  </li>
+  <li>
+    <b>Speech Emotion Recognition (SER)</b> — CNN on log‑mel spectrograms; 85% weighted‑F1  
+    <br/>
+    <sub>Tech: Python, TensorFlow/Keras, Librosa</sub>
+  </li>
+</ul>
 
-- AfriOffres — hybrid TF‑IDF + embeddings + RAG; +15% Recall@10; scalable scraping + APIs  
-  Tech: Python, FastAPI, MongoDB, Selenium, BeautifulSoup, LangChain
-
-- Trash to Cash — EfficientNet‑B3 classifier (macro‑F1 0.85), YOLOv5 brand‑level detection (~80% precision)  
-  Tech: Python, TensorFlow, PyTorch, YOLOv5, FastAPI, MongoDB
-
-- Lung Cancer Prediction — SVM on radiomics; AUROC 0.78; deployed with MLflow + Docker  
-  Tech: Python, scikit‑learn, MLflow, FastAPI, Docker
-
-- Smart‑city Traffic Forecasting — ARIMA/SARIMA with seasonal modeling (MAE, RMSE, MAPE)  
-  Tech: Python, statsmodels, scikit‑learn
-
-- Speech Emotion Recognition (SER) — CNN on log‑mel spectrograms; 85% weighted‑F1  
-  Tech: Python, TensorFlow/Keras, Librosa
-
-<!-- Certifications -->
+<!-- Certifications as a table with icons -->
 <h3>🏅 Certifications</h3>
 
-- NVIDIA — Fundamentals of Deep Learning (Mar 2025)
-- NVIDIA — Generative AI with Diffusion Models (Jun 2025)
-- NVIDIA — Applications of AI for Predictive Maintenance (Apr 2025)
-- NVIDIA — Introduction to Transformer‑Based NLP (Aug 2025)
-- Microsoft Certified — Azure AI Fundamentals (AI‑900), KodeKloud (Feb 2025)
-- Scrum Fundamentals Certified • DevOps Fundamentals
+<table align="center">
+  <tr>
+    <th>Certification</th>
+    <th>Date</th>
+    <th>Provider</th>
+  </tr>
+  <tr>
+    <td>Fundamentals of Deep Learning</td>
+    <td>Mar 2025</td>
+    <td><img src="https://img.icons8.com/color/48/000000/nvidia.png" width="26"/> NVIDIA</td>
+  </tr>
+  <tr>
+    <td>Generative AI with Diffusion Models</td>
+    <td>Jun 2025</td>
+    <td><img src="https://img.icons8.com/color/48/000000/nvidia.png" width="26"/> NVIDIA</td>
+  </tr>
+  <tr>
+    <td>Applications of AI for Predictive Maintenance</td>
+    <td>Apr 2025</td>
+    <td><img src="https://img.icons8.com/color/48/000000/nvidia.png" width="26"/> NVIDIA</td>
+  </tr>
+  <tr>
+    <td>Introduction to Transformer‑Based NLP</td>
+    <td>Aug 2025</td>
+    <td><img src="https://img.icons8.com/color/48/000000/nvidia.png" width="26"/> NVIDIA</td>
+  </tr>
+  <tr>
+    <td>Azure AI Fundamentals (AI‑900)</td>
+    <td>Feb 2025</td>
+    <td><img src="https://img.icons8.com/color/48/000000/microsoft.png" width="26"/> Microsoft</td>
+  </tr>
+  <tr>
+    <td>Scrum Fundamentals Certified</td>
+    <td>—</td>
+    <td><img src="https://img.icons8.com/color/48/000000/scrum.png" width="26"/> ScrumStudy</td>
+  </tr>
+  <tr>
+    <td>DevOps Fundamentals</td>
+    <td>—</td>
+    <td><img src="https://img.icons8.com/color/48/000000/devops.png" width="26"/> KodeKloud</td>
+  </tr>
+</table>
 
 <!-- Stats and trophies -->
 <h3>📊 GitHub at a Glance</h3>
@@ -104,22 +166,31 @@ I build end‑to‑end, production‑ready AI systems—from robust data pipelin
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ayamekni&theme=github-compact&hide_border=true" />
 </p>
 
+<!-- Fun GIFs for extra appeal -->
+<p align="center">
+
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="90" alt="Rocket GIF" />
+ 
+</p>
 
 <!-- Availability (emphasized) -->
 <h3>🗓️ Availability</h3>
 
-- 🔥 Actively seeking: 6‑month AI Engineering internship starting <b>January 2026</b>  
-- 🎯 Focus: AI/ML Engineering, MLOps, LLM/RAG applications  
-- 🌍 Location: Monastir, Tunisia • Open to international relocation
+<ul>
+  <li>🔥 <b>Actively seeking:</b> 6‑month AI Engineering internship starting <b>January 2026</b></li>
+  <li>🎯 <b>Focus:</b> AI/ML Engineering, MLOps, LLM/RAG applications</li>
+  <li>🌍 <b>Location:</b> Monastir, Tunisia • <b>Open to international relocation</b></li>
+</ul>
 
 <!-- Contact -->
 <h3>🤝 Let’s Connect</h3>
-
-- 📧 Email: <a href="mailto:aya.mekni@esprim.tn">aya.mekni@esprim.tn</a>  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/aya-mekni">aya-mekni</a>  
-- 🌐 Portfolio: <a href="https://aya-mekni-portfolio.vercel.app">aya-mekni-portfolio.vercel.app</a>  
-- 🐙 GitHub: <a href="https://github.com/ayamekni">ayamekni</a>  
-- 📱 Phone: +216 92 819 319
+<ul>
+  <li>📧 Email: <a href="mailto:aya.mekni@esprim.tn">aya.mekni@esprim.tn</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/aya-mekni">aya-mekni</a></li>
+  <li>🌐 Portfolio: <a href="https://aya-mekni-portfolio.vercel.app">aya-mekni-portfolio.vercel.app</a></li>
+  <li>🐙 GitHub: <a href="https://github.com/ayamekni">ayamekni</a></li>
+  <li>📱 Phone: +216 92 819 319</li>
+</ul>
 
 <!-- Footer wave -->
 <p align="center">
