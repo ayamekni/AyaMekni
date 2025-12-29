@@ -30,7 +30,7 @@
 <p align="center">
   <img alt="Availability" src="https://img.shields.io/badge/Availability-6--month%20AI%2FML%20Internship%20(from%20Jan%202026)-3F8CFF?style=for-the-badge&logo=calendar" />
   <img alt="Relocation" src="https://img.shields.io/badge/Open%20to%20Relocation-International-5E5E5E?style=for-the-badge" />
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ayamekni&style=for-the-badge&color=blueviolet&label=Profile+Views" />
+
 </p>
 
 ---
@@ -337,21 +337,6 @@ Repository: [Speech Emotion Recognition](https://github.com/ayamekni/Speech-Emot
   <br/><sub>Agile/Scrum practices for iterative delivery and team collaboration.</sub>
 
 ---
-
-## GitHub Snapshot
-
-
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ayamekni&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ayamekni&theme=github-compact&hide_border=true" />
-</p>
-
----
-
 ## Beyond the Code
 
 - 🎧 I enjoy **podcasts and talks** about AI practice, software architecture, and engineering culture.  
@@ -387,10 +372,6 @@ The best way to see how I think and work is to explore my portfolio and **talk d
 
 <p align="center">
   <em>“AI turns data into possibilities. Good engineering turns those possibilities into reliable products.”</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" alt="Footer wave" />
 </p>
 
 <p align="center">
